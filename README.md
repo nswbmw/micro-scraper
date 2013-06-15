@@ -1,7 +1,7 @@
 micro-scraper
 =============
 
-Node.js 爬虫示例 （for：百度百科）
+Node.js 爬虫示例 （for：百度百科之村上春树）
 
 # 第三方模块
 
