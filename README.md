@@ -4,6 +4,7 @@ Node.js 爬虫示例 （for：百度百科）
 
 ### app.js ###
 
+```js
     var request = require('request'),
         cheerio = require('cheerio'),
         http = require('http'),
@@ -79,3 +80,4 @@ Node.js 爬虫示例 （for：百度百科）
     }).listen(3000);
 
     console.log('Server running at localhost:3000');
+```
